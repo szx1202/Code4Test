@@ -6,8 +6,8 @@
 #include <ESP8266WiFi.h>
 
 #ifndef STASSID
-#define STASSID "LZ_24G"
-#define STAPSK "*andromedA01."
+#define STASSID "Net Name"
+#define STAPSK "*pwd"
 #endif
 
 const char* ssid = STASSID;
