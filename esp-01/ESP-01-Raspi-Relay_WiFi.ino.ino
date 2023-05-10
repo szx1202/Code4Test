@@ -2,8 +2,8 @@
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
 
-const char* ssid = "LZ_24G";          // inserisci il nome della tua rete wi-fi
-const char* password = "*andromedA01.";  // inserisci la password della tua rete wi-fi
+const char* ssid = "Net Name";          // inserisci il nome della tua rete wi-fi
+const char* password = "pwd";  // inserisci la password della tua rete wi-fi
 
  #define RELAY 0 // relay connected to  GPIO0
 
