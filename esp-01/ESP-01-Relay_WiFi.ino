@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
  
-const char* ssid = "LZ_24G"; // fill in here your router or wifi SSID
-const char* password = "*andromedA01."; // fill in here your router or wifi password
+const char* ssid = "SID name"; // fill in here your router or wifi SSID
+const char* password = "pwd"; // fill in here your router or wifi password
  #define RELAY 0 // relay connected to  GPIO0
 WiFiServer server(80);
  
